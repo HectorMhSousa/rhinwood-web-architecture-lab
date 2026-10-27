@@ -44,3 +44,6 @@ The goal of this repository is to provide tangible, documented proof of capabili
 *   **Validation:** The successful response (HTTP 200 OK) validated that a request travels seamlessly from client $\rightarrow$ WEB01 $\rightarrow$ APP01 $\rightarrow$ DB01, confirming the entire stack is stable and production-ready.
 
 ***
+<img width="958" height="938" alt="final screenshot conection" src="https://github.com/user-attachments/assets/5a45e807-d019-4649-9be5-a97e3526ab49" />
+<img width="960" height="933" alt="final-screenshot-daemon-running" src="https://github.com/user-attachments/assets/ba307036-58ae-4115-8e24-366919c2dc68" />
+<img width="1269" height="885" alt="final-screenshot-nano-daemon" src="https://github.com/user-attachments/assets/90b98e91-f1ab-4fec-aad2-fa4de140716c" />
