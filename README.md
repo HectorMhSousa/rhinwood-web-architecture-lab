@@ -44,4 +44,3 @@ The goal of this repository is to provide tangible, documented proof of capabili
 *   **Validation:** The successful response (HTTP 200 OK) validated that a request travels seamlessly from client $\rightarrow$ WEB01 $\rightarrow$ APP01 $\rightarrow$ DB01, confirming the entire stack is stable and production-ready.
 
 ***
-*\[Place screenshots in `screenshots/` corresponding to validation tests for Stages 2, 4, and 5. Consider adding a screenshot of the `systemctl status webapp.service` output here.]*
